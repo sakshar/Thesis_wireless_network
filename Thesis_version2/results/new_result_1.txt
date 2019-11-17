@@ -1,0 +1,6 @@
+number of sensors: 3 number of targets: 15 length: 1 range: 0.2412067758 theta: 45.0
+conflict-> covered: 4 uncovered: 11
+number of sensors: 3 number of targets: 15 length: 1 range: 0.2412067758 theta: 45.0
+conflict-> covered: 4 uncovered: 11
+number of sensors: 3 number of targets: 15 length: 1 range: 0.2412067758 theta: 45.0
+conflict-> covered: 4 uncovered: 11

@@ -1,0 +1,240 @@
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 52 uncovered: 173
+total_used: 25,total_unused: 0
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 54 uncovered: 171
+total_used: 24,total_unused: 1
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 49 uncovered: 176
+total_used: 25,total_unused: 0
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 54 uncovered: 171
+total_used: 25,total_unused: 0
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 58 uncovered: 167
+total_used: 25,total_unused: 0
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 106 uncovered: 119
+total_used: 49,total_unused: 1
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 89 uncovered: 136
+total_used: 48,total_unused: 2
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 92 uncovered: 133
+total_used: 49,total_unused: 1
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 107 uncovered: 118
+total_used: 50,total_unused: 0
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 105 uncovered: 120
+total_used: 49,total_unused: 1
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 140 uncovered: 85
+total_used: 72,total_unused: 3
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 141 uncovered: 84
+total_used: 72,total_unused: 3
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 134 uncovered: 91
+total_used: 71,total_unused: 4
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 143 uncovered: 82
+total_used: 72,total_unused: 3
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 135 uncovered: 90
+total_used: 70,total_unused: 5
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 165 uncovered: 60
+total_used: 90,total_unused: 10
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 152 uncovered: 73
+total_used: 86,total_unused: 14
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 162 uncovered: 63
+total_used: 85,total_unused: 15
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 172 uncovered: 53
+total_used: 90,total_unused: 10
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 169 uncovered: 56
+total_used: 87,total_unused: 13
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 188 uncovered: 37
+total_used: 96,total_unused: 29
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 188 uncovered: 37
+total_used: 102,total_unused: 23
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 184 uncovered: 41
+total_used: 99,total_unused: 26
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 186 uncovered: 39
+total_used: 104,total_unused: 21
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 191 uncovered: 34
+total_used: 103,total_unused: 22
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 185 uncovered: 40
+total_used: 102,total_unused: 48
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 203 uncovered: 22
+total_used: 104,total_unused: 46
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 196 uncovered: 29
+total_used: 104,total_unused: 46
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 207 uncovered: 18
+total_used: 112,total_unused: 38
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 196 uncovered: 29
+total_used: 106,total_unused: 44
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 208 uncovered: 17
+total_used: 107,total_unused: 68
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 209 uncovered: 16
+total_used: 118,total_unused: 57
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 202 uncovered: 23
+total_used: 109,total_unused: 66
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 213 uncovered: 12
+total_used: 115,total_unused: 60
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 210 uncovered: 15
+total_used: 112,total_unused: 63
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 217 uncovered: 8
+total_used: 115,total_unused: 85
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 217 uncovered: 8
+total_used: 109,total_unused: 91
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 212 uncovered: 13
+total_used: 114,total_unused: 86
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 212 uncovered: 13
+total_used: 116,total_unused: 84
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 221 uncovered: 4
+total_used: 119,total_unused: 81
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 218 uncovered: 7
+total_used: 114,total_unused: 111
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 222 uncovered: 3
+total_used: 115,total_unused: 110
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 218 uncovered: 7
+total_used: 120,total_unused: 105
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 221 uncovered: 4
+total_used: 117,total_unused: 108
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 220 uncovered: 5
+total_used: 116,total_unused: 109
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 222 uncovered: 3
+total_used: 111,total_unused: 139
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 115,total_unused: 135
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 220 uncovered: 5
+total_used: 107,total_unused: 143
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 218 uncovered: 7
+total_used: 113,total_unused: 137
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 221 uncovered: 4
+total_used: 115,total_unused: 135
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 117,total_unused: 158
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 219 uncovered: 6
+total_used: 109,total_unused: 166
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 222 uncovered: 3
+total_used: 116,total_unused: 159
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 220 uncovered: 5
+total_used: 116,total_unused: 159
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 223 uncovered: 2
+total_used: 113,total_unused: 162
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 117,total_unused: 183
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 111,total_unused: 189
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 224 uncovered: 1
+total_used: 110,total_unused: 190
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 121,total_unused: 179
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 224 uncovered: 1
+total_used: 118,total_unused: 182
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 221 uncovered: 4
+total_used: 107,total_unused: 218
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 118,total_unused: 207
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 224 uncovered: 1
+total_used: 111,total_unused: 214
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 112,total_unused: 213
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 110,total_unused: 215
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 224 uncovered: 1
+total_used: 110,total_unused: 240
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 113,total_unused: 237
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 108,total_unused: 242
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 112,total_unused: 238
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 221 uncovered: 4
+total_used: 111,total_unused: 239
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 106,total_unused: 269
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 109,total_unused: 266
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 112,total_unused: 263
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 109,total_unused: 266
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 106,total_unused: 269
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 114,total_unused: 286
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 108,total_unused: 292
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 112,total_unused: 288
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 107,total_unused: 293
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+greedy-> covered: 225 uncovered: 0
+total_used: 113,total_unused: 287

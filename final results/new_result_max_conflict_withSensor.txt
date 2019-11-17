@@ -1,0 +1,240 @@
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 52 uncovered: 173
+total_used: 25,total_unused: 0
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 55 uncovered: 170
+total_used: 24,total_unused: 1
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 49 uncovered: 176
+total_used: 25,total_unused: 0
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 54 uncovered: 171
+total_used: 25,total_unused: 0
+number of sensors: 25 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 57 uncovered: 168
+total_used: 25,total_unused: 0
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 91 uncovered: 134
+total_used: 48,total_unused: 2
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 93 uncovered: 132
+total_used: 48,total_unused: 2
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 87 uncovered: 138
+total_used: 49,total_unused: 1
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 103 uncovered: 122
+total_used: 50,total_unused: 0
+number of sensors: 50 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 97 uncovered: 128
+total_used: 50,total_unused: 0
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 130 uncovered: 95
+total_used: 69,total_unused: 6
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 130 uncovered: 95
+total_used: 70,total_unused: 5
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 130 uncovered: 95
+total_used: 71,total_unused: 4
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 138 uncovered: 87
+total_used: 73,total_unused: 2
+number of sensors: 75 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 133 uncovered: 92
+total_used: 69,total_unused: 6
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 162 uncovered: 63
+total_used: 88,total_unused: 12
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 151 uncovered: 74
+total_used: 84,total_unused: 16
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 159 uncovered: 66
+total_used: 92,total_unused: 8
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 162 uncovered: 63
+total_used: 92,total_unused: 8
+number of sensors: 100 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 159 uncovered: 66
+total_used: 91,total_unused: 9
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 185 uncovered: 40
+total_used: 104,total_unused: 21
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 176 uncovered: 49
+total_used: 98,total_unused: 27
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 179 uncovered: 46
+total_used: 106,total_unused: 19
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 190 uncovered: 35
+total_used: 111,total_unused: 14
+number of sensors: 125 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 175 uncovered: 50
+total_used: 108,total_unused: 17
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 201 uncovered: 24
+total_used: 116,total_unused: 34
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 204 uncovered: 21
+total_used: 119,total_unused: 31
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 191 uncovered: 34
+total_used: 112,total_unused: 38
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 201 uncovered: 24
+total_used: 118,total_unused: 32
+number of sensors: 150 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 188 uncovered: 37
+total_used: 117,total_unused: 33
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 210 uncovered: 15
+total_used: 124,total_unused: 51
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 207 uncovered: 18
+total_used: 121,total_unused: 54
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 204 uncovered: 21
+total_used: 121,total_unused: 54
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 208 uncovered: 17
+total_used: 122,total_unused: 53
+number of sensors: 175 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 202 uncovered: 23
+total_used: 121,total_unused: 54
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 215 uncovered: 10
+total_used: 125,total_unused: 75
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 215 uncovered: 10
+total_used: 130,total_unused: 70
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 211 uncovered: 14
+total_used: 127,total_unused: 73
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 214 uncovered: 11
+total_used: 124,total_unused: 76
+number of sensors: 200 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 208 uncovered: 17
+total_used: 126,total_unused: 74
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 218 uncovered: 7
+total_used: 129,total_unused: 96
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 218 uncovered: 7
+total_used: 130,total_unused: 95
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 219 uncovered: 6
+total_used: 130,total_unused: 95
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 220 uncovered: 5
+total_used: 132,total_unused: 93
+number of sensors: 225 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 214 uncovered: 11
+total_used: 132,total_unused: 93
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 220 uncovered: 5
+total_used: 129,total_unused: 121
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 223 uncovered: 2
+total_used: 135,total_unused: 115
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 221 uncovered: 4
+total_used: 132,total_unused: 118
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 221 uncovered: 4
+total_used: 129,total_unused: 121
+number of sensors: 250 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 218 uncovered: 7
+total_used: 132,total_unused: 118
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 223 uncovered: 2
+total_used: 131,total_unused: 144
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 136,total_unused: 139
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 223 uncovered: 2
+total_used: 131,total_unused: 144
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 131,total_unused: 144
+number of sensors: 275 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 223 uncovered: 2
+total_used: 131,total_unused: 144
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 223 uncovered: 2
+total_used: 128,total_unused: 172
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 134,total_unused: 166
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 131,total_unused: 169
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 132,total_unused: 168
+number of sensors: 300 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 134,total_unused: 166
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 223 uncovered: 2
+total_used: 132,total_unused: 193
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 133,total_unused: 192
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 132,total_unused: 193
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 133,total_unused: 192
+number of sensors: 325 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 131,total_unused: 194
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 132,total_unused: 218
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 132,total_unused: 218
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 131,total_unused: 219
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 132,total_unused: 218
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 224 uncovered: 1
+total_used: 133,total_unused: 217
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 132,total_unused: 243
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 134,total_unused: 241
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 133,total_unused: 242
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 130,total_unused: 245
+number of sensors: 375 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 127,total_unused: 248
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 131,total_unused: 269
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 132,total_unused: 268
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 131,total_unused: 269
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 131,total_unused: 269
+number of sensors: 400 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 225 uncovered: 0
+total_used: 129,total_unused: 271

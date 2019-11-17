@@ -1,0 +1,17 @@
+Graph1:
+	take "targetCoverageRatio.txt" from each folder and plot a graph with them.
+	add x-axis value: as multiple of 25 from 25 to 400.
+	label: x-axis: Number of Sensors (N), y-axis: Coverage Ratio (CR), M=225
+	legend: use the heuristics name as per the folder names; CGA, TMxCH, TMncH, TMxCHSE
+
+Graph3:
+	take "sensorUsageRatio.txt" from each folder and plot a graph with them.
+	add x-axis value: as multiple of 25 from 25 to 400.
+	label: x-axis: Number of Sensors (N), y-axis: Ratio of Active Sensors (RAS), M=225
+	legend: use the heuristics name as per the folder names; CGA, TMxCH, TMncH, TMxCHSE
+
+Graph5:
+	take "targetPerSensor.txt" from each folder and plot a graph with them.
+	add x-axis value: as multiple of 25 from 25 to 400.
+	label: x-axis: Number of Sensors (N), y-axis: Target Coverage Per Sensor (TCPS), M=225
+	legend: use the heuristics name as per the folder names; CGA, TMxCH, TMncH, TMxCHSE

@@ -1,0 +1,102 @@
+number of sensors: 10 number of targets: 50 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 19 uncovered: 31
+greedy-> covered: 33 uncovered: 17
+number of sensors: 10 number of targets: 60 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 23 uncovered: 37
+greedy-> covered: 39 uncovered: 21
+number of sensors: 10 number of targets: 70 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 27 uncovered: 43
+greedy-> covered: 41 uncovered: 29
+number of sensors: 10 number of targets: 80 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 28 uncovered: 52
+greedy-> covered: 50 uncovered: 30
+number of sensors: 10 number of targets: 90 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 37 uncovered: 53
+greedy-> covered: 56 uncovered: 34
+number of sensors: 10 number of targets: 70 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 30 uncovered: 40
+greedy-> covered: 45 uncovered: 25
+number of sensors: 15 number of targets: 70 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 45 uncovered: 25
+greedy-> covered: 56 uncovered: 14
+number of sensors: 20 number of targets: 70 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 53 uncovered: 17
+greedy-> covered: 61 uncovered: 9
+number of sensors: 25 number of targets: 70 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 56 uncovered: 14
+greedy-> covered: 65 uncovered: 5
+number of sensors: 30 number of targets: 70 length: 10 range: 3.0 theta: 90.0
+conflict-> covered: 60 uncovered: 10
+greedy-> covered: 70 uncovered: 0
+number of sensors: 30 number of targets: 70 length: 10 range: 5.0 theta: 90.0
+conflict-> covered: 66 uncovered: 4
+greedy-> covered: 70 uncovered: 0
+number of sensors: 30 number of targets: 70 length: 10 range: 4.0 theta: 90.0
+conflict-> covered: 66 uncovered: 4
+greedy-> covered: 70 uncovered: 0
+number of sensors: 30 number of targets: 70 length: 10 range: 2.0 theta: 90.0
+conflict-> covered: 42 uncovered: 28
+greedy-> covered: 54 uncovered: 16
+number of sensors: 30 number of targets: 70 length: 10 range: 2.5 theta: 90.0
+conflict-> covered: 55 uncovered: 15
+greedy-> covered: 68 uncovered: 2
+number of sensors: 30 number of targets: 70 length: 10 range: 2.5 theta: 60.0
+conflict-> covered: 51 uncovered: 19
+greedy-> covered: 64 uncovered: 6
+number of sensors: 30 number of targets: 70 length: 10 range: 3.0 theta: 60.0
+conflict-> covered: 56 uncovered: 14
+greedy-> covered: 68 uncovered: 2
+number of sensors: 30 number of targets: 70 length: 10 range: 3.0 theta: 120.0
+conflict-> covered: 66 uncovered: 4
+greedy-> covered: 70 uncovered: 0
+number of sensors: 30 number of targets: 70 length: 10 range: 3.0 theta: 45.0
+conflict-> covered: 61 uncovered: 9
+greedy-> covered: 70 uncovered: 0
+number of sensors: 10 number of targets: 50 length: 1 range: 0.5 theta: 45.0
+conflict-> covered: 23 uncovered: 27
+greedy-> covered: 40 uncovered: 10
+number of sensors: 10 number of targets: 50 length: 1 range: 0.5 theta: 45.0
+conflict-> covered: 24 uncovered: 26
+greedy-> covered: 40 uncovered: 10
+number of sensors: 10 number of targets: 225 length: 1 range: 0.25 theta: 45.0
+conflict-> covered: 53 uncovered: 172
+greedy-> covered: 64 uncovered: 161
+number of sensors: 100 number of targets: 225 length: 1 range: 0.15 theta: 45.0
+conflict-> covered: 154 uncovered: 71
+greedy-> covered: 211 uncovered: 14
+number of sensors: 150 number of targets: 225 length: 1 range: 0.1 theta: 45.0
+conflict-> covered: 128 uncovered: 97
+greedy-> covered: 195 uncovered: 30
+number of sensors: 150 number of targets: 225 length: 1 range: 0.25 theta: 45.0
+conflict-> covered: 199 uncovered: 26
+greedy-> covered: 225 uncovered: 0
+number of sensors: 10 number of targets: 50 length: 1 range: 0.5 theta: 45.0
+conflict-> covered: 33 uncovered: 17
+greedy-> covered: 44 uncovered: 6
+number of sensors: 100 number of targets: 225 length: 1 range: 0.25 theta: 45.0
+conflict-> covered: 187 uncovered: 38
+greedy-> covered: 225 uncovered: 0
+number of sensors: 100 number of targets: 225 length: 1 range: 0.1 theta: 45.0
+conflict-> covered: 97 uncovered: 128
+greedy-> covered: 164 uncovered: 61
+number of sensors: 50 number of targets: 225 length: 1 range: 0.25 theta: 45.0
+conflict-> covered: 150 uncovered: 75
+greedy-> covered: 217 uncovered: 8
+number of sensors: 300 number of targets: 225 length: 1 range: 0.1 theta: 45.0
+conflict-> covered: 182 uncovered: 43
+greedy-> covered: 220 uncovered: 5
+number of sensors: 300 number of targets: 225 length: 1 range: 0.2 theta: 45.0
+conflict-> covered: 207 uncovered: 18
+greedy-> covered: 225 uncovered: 0
+number of sensors: 180 number of targets: 225 length: 1 range: 0.1 theta: 45.0
+conflict-> covered: 151 uncovered: 74
+greedy-> covered: 210 uncovered: 15
+number of sensors: 250 number of targets: 225 length: 1 range: 0.1 theta: 45.0
+conflict-> covered: 171 uncovered: 54
+greedy-> covered: 225 uncovered: 0
+number of sensors: 350 number of targets: 225 length: 1 range: 0.1 theta: 45.0
+conflict-> covered: 191 uncovered: 34
+greedy-> covered: 225 uncovered: 0
+number of sensors: 350 number of targets: 225 length: 1000 range: 100.0 theta: 45.0
+conflict-> covered: 196 uncovered: 29
+greedy-> covered: 224 uncovered: 1
